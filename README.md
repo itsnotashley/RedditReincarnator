@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsnotashley/RedditReincarnator/main/logo.png" alt="RedditReincarnator logo" width="400"/>
-</p>
-
 # RedditReincarnator 👻
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/yourusername/RedditReincarnator)](LICENSE)
+[![License](https://img.shields.io/github/license/itsnotashley/RedditReincarnator)](LICENSE)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
 
