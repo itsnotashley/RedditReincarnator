@@ -7,7 +7,7 @@
 
 **Rise again on Reddit.**
 
-RedditReincarnator helps you migrate your Reddit presence from one account to another. Whether you've been shadowbanned or you're just starting fresh — this tool brings your subs and saved content back to life.
+RedditReincarnator helps you migrate your Reddit presence from one account to another. Whether you've been shadowbanned or you're just starting fresh - this tool brings your subs and saved content back to life.
 
 ## Features
 
@@ -41,4 +41,4 @@ python RedditReincarnator.py
 
 ## License
 
-MIT – spooky stuff, do what you want.
+MIT - spooky stuff, do what you want.
